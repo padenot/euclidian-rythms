@@ -1,0 +1,12 @@
+[package]
+name = "euclidian-rythms"
+version = "0.1.0"
+authors = ["Paul Adenot <paul@paul.cx>"]
+description = "Generate euclidian rythms using the Bjorklund's algorithm"
+repository = "https://github.com/padenot/euclidian-rythm"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+categories = ["multimedia::audio"]
+
+[dependencies]
+smallvec = "0.6"
