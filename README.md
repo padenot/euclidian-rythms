@@ -1,5 +1,9 @@
 # Euclidian rythm generators
 
+<a href="https://crates.io/crates/euclidian-rythm">
+    <img src="http://meritbadge.herokuapp.com/euclidian-rythm" alt="crates.io">
+</a>
+
 Rust implementation of [“The Euclidean Algorithm Generates Traditional Musical
 Rhythms”](http://cgm.cs.mcgill.ca/%7Egodfried/publications/banff.pdf).
 
