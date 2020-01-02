@@ -1,7 +1,7 @@
-# Euclidian rythm generators
+# Euclidian rythm generator
 
-<a href="https://crates.io/crates/euclidian-rythm">
-    <img src="http://meritbadge.herokuapp.com/euclidian-rythm" alt="crates.io">
+<a href="https://crates.io/crates/euclidian-rythms">
+    <img src="http://meritbadge.herokuapp.com/euclidian-rythms" alt="crates.io">
 </a>
 
 Rust implementation of [“The Euclidean Algorithm Generates Traditional Musical
